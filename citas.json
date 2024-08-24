@@ -5,5 +5,19 @@
     "tipo": "perro",
     "color": "blanco",
     "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Pepa",
+    "edad": "6 años",
+    "tipo": "perro",
+    "color": "cafe",
+    "enfermedad": "mareos"
+  },
+  {
+    "nombre": "Duque",
+    "edad": "4 años",
+    "tipo": "perro",
+    "color": "negro",
+    "enfermedad": "chequeo"
   }
 ]
